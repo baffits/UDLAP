@@ -6,7 +6,7 @@ Análisis Estado de Resultados
 •	Al analizar, ver cómo se encuentra la utilidad neta, si creció o decreció, y luego analizar las razones que generaron los cambios.
 •	Hacer gráfico de pastel del Estado de Resultados hasta la Utilidad de Operación (EBITDA).
 
-Análisis Balance General
+Análisis Balance General 
 
 •	En el análisis vertical se dividen todas las cuentas entre el total de activos
 •	En el análisis horizontal se divide el saldo del año actual entre el saldo del año anterior de cada cuenta para determinar su crecimiento o reducción.
